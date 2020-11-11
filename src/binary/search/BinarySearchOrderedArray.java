@@ -3,7 +3,7 @@ package binary.search;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Main {
+public class BinarySearchOrderedArray {
 
     public static void main(String[] args) {
 
