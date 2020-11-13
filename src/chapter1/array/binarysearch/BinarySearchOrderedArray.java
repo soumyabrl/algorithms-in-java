@@ -1,4 +1,4 @@
-package binary.search;
+package chapter1.array.binarysearch;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
